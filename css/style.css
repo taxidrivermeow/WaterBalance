@@ -1,0 +1,17 @@
+.waterNorm{
+    width: 200px;
+    height: 400px;
+    background-color: coral;
+    display: flex;
+    align-items: end;
+}
+
+.waterValue{
+    width: 100%;
+    background-color: aqua;
+    max-height: 100%;
+}
+
+.percents{
+    height: 20px;
+}
